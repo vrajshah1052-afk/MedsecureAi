@@ -1,0 +1,46 @@
+{
+  "hash": "22985144",
+  "configHash": "23eea983",
+  "lockfileHash": "2fc9bbbd",
+  "browserHash": "bd85a5e4",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "10b3bad0",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "b3cb3d4e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "2f87a46e",
+      "needsInterop": true
+    },
+    "react-hot-toast": {
+      "src": "../../node_modules/react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "388f2a32",
+      "needsInterop": false
+    },
+    "recharts": {
+      "src": "../../node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "be32caff",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-JWJWDP6Z": {
+      "file": "chunk-JWJWDP6Z.js"
+    },
+    "chunk-NCCBZP5L": {
+      "file": "chunk-NCCBZP5L.js"
+    }
+  }
+}
